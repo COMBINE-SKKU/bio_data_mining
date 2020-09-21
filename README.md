@@ -5,5 +5,4 @@ The codes will be uploaded here every Monday. Please feel free to fork or clone 
 - Week1: Simple Linear Regression
 - Week2: General Linear Model example (design matrix and contrast)
 - Week3: Prediction Framework
-- Week4: Peformance evaluation (sensitivity-specificty, Precision-Recall, F1)
-<br></t>     Regularized regression and feature selection
+- Week4: Peformance evaluation (sensitivity-specificty, Precision-Recall, F1), Regularized regression and feature selection
