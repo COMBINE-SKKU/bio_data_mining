@@ -11,4 +11,4 @@ The codes will be uploaded here every Monday. Please feel free to fork or clone 
 - Week07: Dimensionality Reduction - Principal Component Analysis, Eigenface example
 - Week08: Full lectures without code implementation (PLS and CCA)
 - Week09: Full lectures without code implementation (Clustering)
-- Week10: Clustering analysis (Partioning, Hierarchical clustering)
+- Week10: Clustering analysis (Partitioning, Hierarchical clustering)
