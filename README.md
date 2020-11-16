@@ -12,3 +12,4 @@ The codes will be uploaded here every Monday. Please feel free to fork or clone 
 - Week08: Full lectures without code implementation (PLS and CCA)
 - Week09: Full lectures without code implementation (Clustering)
 - Week10: Clustering analysis (Partitioning, Hierarchical clustering)
+- Week11: Factor analysis (adequacy test, factor extration, rotation)
